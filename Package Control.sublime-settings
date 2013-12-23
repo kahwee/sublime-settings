@@ -1,0 +1,16 @@
+{
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"DocBlockr",
+		"EJS",
+		"Handlebars",
+		"Jade",
+		"JsFormat",
+		"JSHint Gutter",
+		"LESS",
+		"SideBarEnhancements",
+		"SyncedSideBar",
+		"Theme - Soda"
+	]
+}

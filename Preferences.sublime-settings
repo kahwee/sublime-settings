@@ -1,0 +1,48 @@
+{
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip",
+		"*.min.js",
+		"*.map",
+		"*swf",
+		"*.eot",
+		"*.woff",
+		"*.ttf",
+		"*.otf"
+	],
+	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"tmp",
+		"node_modules",
+		"bower_components"
+	],
+	"font_face": "Consolas",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"save_on_focus_lost": true,
+	"soda_folder_icons": true,
+	"tab_size": 2,
+	"theme": "Soda Dark.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"word_separators": "./\\()\"'-:,.;<>~!#%^&*|+=[]{}`~?"
+}
