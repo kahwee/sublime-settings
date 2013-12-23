@@ -2,8 +2,10 @@
 	"installed_packages":
 	[
 		"Better CoffeeScript",
+		"DashDoc",
 		"DocBlockr",
 		"EJS",
+		"FileDiffs",
 		"Handlebars",
 		"Jade",
 		"JsFormat",
