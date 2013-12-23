@@ -22,7 +22,7 @@
 		"*.ttf",
 		"*.otf"
 	],
-	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
+	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
 	"folder_exclude_patterns":
 	[
 		".svn",
